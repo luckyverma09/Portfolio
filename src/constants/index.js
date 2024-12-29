@@ -237,6 +237,10 @@ const projects = [
         name: 'javascript',
         color: 'pink-text-gradient',
       },
+      {
+        name: 'api',
+        color: 'blue-text-gradient',
+      },
     ],
     image: weatherApp,
     source_code_link: 'https://github.com/luckyverma09/Weather-App',
@@ -250,14 +254,18 @@ const projects = [
     tags: [
       {
         name: 'html',
-        color: 'pink-text-gradient',
-      },
-      {
-        name: 'css',
         color: 'green-text-gradient',
       },
       {
+        name: 'css',
+        color: 'blue-text-gradient',
+      },
+      {
         name: 'javascript',
+        color: 'pink-text-gradient',
+      },
+      {
+        name: 'api',
         color: 'orange-text-gradient',
       },
     ],
