@@ -53,7 +53,7 @@ const services = [
     icon: backend,
   },
   {
-    title: 'College Student',
+    title: 'MERN Dev',
     icon: creator,
   },
 ];

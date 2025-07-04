@@ -41,7 +41,7 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a final year BTech student at GLA University, Mathura, with a passion for software
+        I'm a graduate with a BTech degree from GLA University, Mathura, specializing in software
         development. My expertise lies in Data Structures and Algorithms (DSA) using Java, and I'm
         proficient in the MERN (MongoDB, Express.js, React, Node.js) stack for full-stack web
         development. I have a strong command of JavaScript and enjoy creating efficient,
